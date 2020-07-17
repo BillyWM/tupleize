@@ -1,0 +1,17 @@
+{
+  "name": "tupleize",
+  "version": "1.0.0",
+  "description": "Loop through (any number of) arrays as tuples",
+  "main": "tupleize.js",
+  "repository": "https://github.com/BillyWM/tupleize",
+  "author": "William Wenge-Murphy <billy@wenge-murphy.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "jest": "^26.1.0"
+  }
+}
